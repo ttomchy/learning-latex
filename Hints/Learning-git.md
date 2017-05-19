@@ -13,18 +13,18 @@ git init
 git status
 git add your files
 ```
-## commit
+##git  commit
 ```
 git commit -m " message"
 ```
-## push
+## git  push
 ```
 git push -u origin master
 
 ```
 >input your email and your  password
 
-## clone
+## git clone
 ```
 git clone ***
 ```
